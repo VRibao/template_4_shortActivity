@@ -1,19 +1,22 @@
-# FAIR training material: thinking about reproducibility
-### 
+# template_4_shortActivity (Replace for Course Title)
 
+### Course Title
+Reproducible training materials workshop
 ### Contributors
+Vanessa González Ribao 
+Samantha Wittke
+Jacobo Miranda
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) | Bruna Piereck  | 
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) |Alexander Botzki |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
 
 ### About this course
 
-This course .... Add a general description
+This course will help yu to improve your training materials. We show you some tools for making materials more reproducible
 
 ### Material license
-
+https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1
 <img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
 
 [**CC-BY**](https://creativecommons.org/licenses/by/4.0/)
@@ -30,6 +33,7 @@ Morning 1
 | 10h30 | Coffee break                                                              |
 | 10h45 | A closer look at the repositories world                                   |
 | 12h30 | End of the day                                                            |
+                                                          |
 
 
 ### Complement (Links for materials and Reading)
