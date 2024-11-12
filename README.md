@@ -1,12 +1,12 @@
-# template_4_shortActivity (Replace for Course Title)
-
-### Course Title
+# FAIR training material: thinking about reproducibility
+### 
 
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) | Bruna Piereck  | 
+|![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) |Alexander Botzki |
 
 ### About this course
 
@@ -30,7 +30,6 @@ Morning 1
 | 10h30 | Coffee break                                                              |
 | 10h45 | A closer look at the repositories world                                   |
 | 12h30 | End of the day                                                            |
-                                                          |
 
 
 ### Complement (Links for materials and Reading)
